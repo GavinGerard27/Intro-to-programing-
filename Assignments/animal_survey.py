@@ -7,7 +7,3 @@ print("Your favorite animal is a  " +Favorite_animal + " You like this animal be
 
 
 
-
-
-
-
