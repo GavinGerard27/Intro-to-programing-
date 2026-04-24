@@ -12,4 +12,3 @@ elif wind_speed < 157:
     print("Category 4")
 elif wind_speed >= 157:
     print("Category 5")
-    
